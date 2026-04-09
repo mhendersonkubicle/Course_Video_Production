@@ -1,0 +1,46 @@
+Instruction for Intro Template Production
+
+1. Background Architecture
+Gradient: A radial or linear diagonal gradient using a Dark Primary Color (base) and a Mid-Tone Secondary Color (highlight).
+
+Lighting: Position the light source in the upper-right quadrant, creating a subtle "glow" effect that transitions into a deep, shadowed vignette in the opposite corners.
+
+2. Element Positioning (Grid System)
+Brand Header (Top-Left): * Icon: A small, monochromatic or high-contrast accent icon.
+
+Brand Text: Clean, medium-weight sans-serif text placed immediately to the right of the icon.
+
+Content Stack (Center-Left): * Subtitle/Label: Positioned at approximately 40% height from the top. Use an Accent Color in bold, all-caps or title-case.
+
+Primary Title: Positioned immediately below the subtitle. Use White, Extra Bold sans-serif typography. Ensure heavy kerning (letter spacing) for a modern look.
+
+Global Navigation Icon (Bottom-Right): * A small, minimalist "Utility Icon" enclosed in a thin-stroke rounded square (approx. 15% corner radius).
+
+3. Typography & Color Logic
+Hierarchy: The Title should be at least 3x the size of the Brand Header text to establish clear visual importance.
+
+Color Palette:
+
+Primary: Dark/Neutral (for depth).
+
+Secondary: Brand-specific (for the gradient highlight).
+
+Accent: High-vibrancy (used strictly for the "Lesson/Module" label to draw the eye).
+
+Variable Input Template
+When you want to generate a new version, simply provide these three values to the AI:
+
+Primary/Secondary Colors: [e.g., Deep Forest Green & Lime]
+
+Accent Color: [e.g., Gold]
+
+Brand Text: [e.g., Global Leadership Initiative]
+
+Subtitle: [e.g., Module 04]
+
+Primary Title: [e.g., Emotional Intelligence]
+
+Condensed Image Generation Prompt
+If you are using an AI image generator, use this "genericized" string:
+
+"A 16:9 corporate presentation slide. Background is a dark [Primary Color] gradient with a soft light glow in the top-right. Top-left: A small icon followed by white text '[Brand Text]'. Center-left: A bold [Accent Color] label '[Subtitle]' sitting above a large, heavy bold white title '[Primary Title]'. Bottom-right: A small white minimalist utility icon in a rounded-square border. Clean, premium tech aesthetic, sans-serif fonts, ample negative space."
